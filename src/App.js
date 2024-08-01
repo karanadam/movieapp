@@ -6,7 +6,7 @@ import React from "react";
 
 //9cc992c8
 
-const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=9cc992c8";
+const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=b582c925";
 
 const movie1 = {
   Title: "Amazing Spiderman Syndrome",
@@ -61,4 +61,3 @@ const App = () => {
 };
 
 export default App;
-
